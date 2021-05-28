@@ -26,8 +26,7 @@
 
 - Heyo, I’m Asif Zamil!
 - I’m interested in coding anything, from Blockchain to Cryptography, Android and Flutter development, desktop applications in JAVA, C++ as well as scripts in Python.
-- I’m currently learning Solidity(Ethereum Blockchain), web3js and Javascript
-- I’m looking to collaborate on anything, due to the fact that I live in the UK, startups on crypto have FCA regulations to follow, meaning I am just a coder so anything business related has to be done by someone else.
+- I’m currently insterested in Solidity(Ethereum Blockchain), web3js and Javascript
 - You can reach me at asifzamil.com, you will be able to go to the bottom of the page and find my email.
 ```
                  _.oood"""""""booo._
