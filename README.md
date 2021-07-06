@@ -26,7 +26,7 @@
 
 - Heyo, I’m Bleiserman!
 - I’m interested in coding anything, from Blockchain to Cryptography, Android and Flutter development, desktop applications in JAVA, C++ as well as scripts in Python.
-- I’m currently insterested in Solidity(Ethereum Blockchain), web3js and Javascript
+- I’m currently working in Solidity(Ethereum Blockchain), web3js and Javascript development
 ```
                  _.oood"""""""booo._
              _.o""      _____    * ""o._
